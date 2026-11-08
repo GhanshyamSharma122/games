@@ -1,0 +1,53 @@
+// Barrel export for all games
+export 'lights_out.dart';
+export 'sliding_tiles.dart';
+export 'mines_game.dart';
+export 'merge_2048_game.dart';
+export 'match3_game.dart';
+export 'memory_flip_game.dart';
+export 'mini_sudoku_game.dart';
+export 'nonogram_game.dart';
+export 'pipe_connect_game.dart';
+export 'flow_connect_game.dart';
+export 'path_fill_game.dart';
+export 'rotate_match_game.dart';
+export 'sokoban_game.dart';
+export 'number_path_game.dart';
+export 'word_connect_game.dart';
+// New games (batch 1)
+export 'snake_game.dart';
+export 'simon_says_game.dart';
+export 'tictactoe_game.dart';
+export 'whack_a_mole_game.dart';
+export 'connect_four_game.dart';
+export 'mastermind_game.dart';
+export 'reaction_timer_game.dart';
+export 'math_speed_game.dart';
+export 'hangman_game.dart';
+export 'tower_of_hanoi_game.dart';
+export 'sequence_memory_game.dart';
+export 'color_match_game.dart';
+export 'breakout_game.dart';
+export 'pong_game.dart';
+export 'word_scramble_game.dart';
+export 'dots_and_boxes_game.dart';
+export 'battleship_game.dart';
+// New games (batch 2)
+export 'flappy_bird_game.dart';
+export 'tetris_game.dart';
+export 'asteroids_game.dart';
+export 'checkers_game.dart';
+export 'reversi_game.dart';
+export 'blackjack_game.dart';
+export 'higher_lower_game.dart';
+export 'tap_speed_game.dart';
+export 'aim_trainer_game.dart';
+export 'maze_runner_game.dart';
+export 'nim_game.dart';
+export 'pattern_copy_game.dart';
+export 'quick_draw_game.dart';
+// New games (batch 3 - with animations)
+export 'bubble_pop_game.dart';
+export 'coin_collector_game.dart';
+export 'color_switch_game.dart';
+export 'tap_rhythm_game.dart';

@@ -1,0 +1,8 @@
+Analyzing lib...
+
+  error - games\other_games.dart:1722:15 - Undefined name 'info'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+warning - app\hub_game.dart:284:12 - The value of the field '_panStart' isn't used. Try removing the field, or using it. - unused_field
+   info - app\hub_game.dart:1:8 - The import of 'dart:ui' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart'. Try removing the import directive. - unnecessary_import
+   info - games\sliding_tiles.dart:2:8 - The import of 'dart:ui' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart'. Try removing the import directive. - unnecessary_import
+
+4 issues found.
